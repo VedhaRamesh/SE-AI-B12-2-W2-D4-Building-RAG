@@ -8,3 +8,4 @@ pypdf>=4.2.0
 faiss-cpu>=1.8.0
 python-dotenv>=1.0.1
 tiktoken>=0.7.0
+beautifulsoup4>=4.12.3
